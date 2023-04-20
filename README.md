@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+midnight-purple
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelck007&theme=midnight-purple&show_icons=true)
+
