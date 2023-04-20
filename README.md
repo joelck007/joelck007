@@ -1,22 +1,16 @@
-### Hi there 👋
-
-<!--
-**joelck007/joelck007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá! Eu sou Joel Roldão de Oliveira
 
 
-midnight-purple
+
+- 🔭 Atualmente to desempregado em buscando uma nova oportunidade de emprego...
+- 🌱 Estou estudando Analise de Dados com Python e MySQL ...
+- 💬 Meu WhatsApp: +55 (15)98103-1963 
+- 📫 Contate-me noe email: joeh.deoliveira@gmail.com
+- 😄 Pronouns: ele/dele
+
+
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelck007&theme=midnight-purple&show_icons=true)
 
