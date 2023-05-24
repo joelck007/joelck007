@@ -34,7 +34,8 @@
  <br>
   <br>
   <img align="center" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
-</div>
+  
+ <img align="center" alt="Rafa-pic" height="180em" style="border-radius:50px;" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   
 </br>
    
