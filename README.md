@@ -6,12 +6,14 @@
 - 🌱 Estou estudando Dev de Front-End, Analise de Dados com Python e MySQL ...
 - 😄 Pronouns: ele/dele
 
+ <div>
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelck007&theme=midnight-purple&show_icons=true)
 
- <div>
-  <a href="https://github.com/eagrundy">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelck007&layout=compact&langs_count=16&theme=midnight-purple"/>
- 
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/joelck007">
+   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelck007&layout=compact&langs_count=16&theme=midnight-purple"/>
+
 </div>
  
  ## Contate-me 
@@ -35,6 +37,7 @@
  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  <br>
   <br>
+ <br>
   <img align="center" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
   
  <img align="center" alt="Rafa-pic" height="180em" style="border-radius:50px;" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
