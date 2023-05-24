@@ -38,10 +38,14 @@
   <img align="center" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
   
  <img align="center" alt="Rafa-pic" height="180em" style="border-radius:50px;" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-  
-</br>
-   
+ 
   ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
  
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<br>
+</div> 
+</br>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8770da&height=120&section=footer"/>
