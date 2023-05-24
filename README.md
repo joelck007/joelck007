@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8770da&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=912CEE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8770da&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Joel+Roldão+de+Oliveira;I'm+30+years+old;I'm+from+Brazil;I+Graduated+Information+Technology+Management;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6F00FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Joel+Roldão+de+Oliveira;I'm+30+years+old;I'm+from+Brazil;I+Graduated+Information+Technology+Management;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 🔭 Atualmente estou em busca de novas oportunidades...
 - 🌱 Estou estudando Dev de Front-End, Analise de Dados com Python e MySQL ...
@@ -10,7 +10,7 @@
 
  <div>
   <a href="https://github.com/eagrundy">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagrundy&layout=compact&langs_count=16&theme=midnight-purple"/>
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelck007&layout=compact&langs_count=16&theme=midnight-purple"/>
  
 </div>
  
@@ -43,9 +43,9 @@
  
  <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{joelck007}/count.svg" /></p> 
 <br>
 </div> 
 </br>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8770da&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=912CEE&height=120&section=footer"/>
