@@ -3,7 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6F00FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Joel+Roldão+de+Oliveira;I'm+30+years+old;I'm+from+Brazil;I+Graduated+Information+Technology+Management;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 🔭 Atualmente estou em busca de novas oportunidades...
-- 🌱 Estou estudando Dev de Front-End, Analise de Dados com Python e MySQL ...
+- 💻 Estou estudando Dev de Front-End 
+
 - 😄 Pronouns: ele/dele
 
  <div>
