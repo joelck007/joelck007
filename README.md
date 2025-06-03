@@ -4,7 +4,7 @@
 
 - 🔭  Atualmente estou em busca de novas oportunidades...
 - 💻  Estou estudando Dev de Front-End 
-
+- 💻  Estou estudando Banco de Dados
 - 😄  Pronouns: ele/dele
 
  <div>
