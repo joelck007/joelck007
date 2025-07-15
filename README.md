@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=912CEE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6F00FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Joel+Roldão+de+Oliveira;I'm+30+years+old;I'm+from+Brazil;I+Graduated+Information+Technology+Management;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6F00FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Joel+Roldão+de+Oliveira;I'm+32+years+old;I'm+from+Brazil;I+Graduated+Information+Technology+Management;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 🔭  Atualmente estou em busca de novas oportunidades...
 - 💻  Estou estudando Dev de Front-End 
