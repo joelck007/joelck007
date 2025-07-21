@@ -7,6 +7,9 @@
 - 💻  Estou estudando Banco de Dados
 - 😄  Pronouns: ele/dele
 
+<br>
+<br>
+
  <div>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelck007&theme=midnight-purple&show_icons=true)
@@ -45,11 +48,7 @@
  
   ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
  
- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{joelck007}/count.svg" /></p> 
-<br>
-</div> 
+ 
 </br>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=912CEE&height=120&section=footer"/>
