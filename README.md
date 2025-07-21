@@ -10,6 +10,10 @@
 <br>
 <br>
 
+![Image](https://github.com/user-attachments/assets/ba4722cf-d49c-438f-97ae-e477af1a78bd)
+
+<br>
+<br>
  <div>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelck007&theme=midnight-purple&show_icons=true)
@@ -47,7 +51,8 @@
  <img align="center" alt="Rafa-pic" height="180em" style="border-radius:50px;" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
  
   ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
- 
+
+
  
 </br>
 </div>
